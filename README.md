@@ -1,6 +1,7 @@
-Portfolio1 🚀
+Portfolio1 🚀 source code :https://github.com/Hiba-Khaleel/portfolio1/tree/master
+.
 Welcome to Portfolio, a learning project developed during the Foodcoding course! 🍔👨‍💻
-
+.
 Requirements 📋
 To successfully complete this project, the following requirements must be met:
 
@@ -9,11 +10,11 @@ Build a Portfolio:
 Include sections for Introduction, About Me, Skills, Projects, and an Admin section.
 Technologies Used:
 
-JavaScript (js)
-HTML5/CSS3
-Build an API using Node.js
-Manipulate data using MySQL
-Sections 📑
+-JavaScript (js)
+-HTML5/CSS3
+-Build an API using Node.js
+-Manipulate data (CRUD) using MySQL
+-Sections 📑
 1. Introduction 🌟
 Provide a brief introduction to yourself, your background, and your interests.
 2. About Me ℹ️
