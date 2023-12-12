@@ -1,5 +1,5 @@
 Portfolio1 🚀
-Welcome to Portfolio1, a learning project developed during the Foodcoding course! 🍔👨‍💻
+Welcome to Portfolio, a learning project developed during the Foodcoding course! 🍔👨‍💻
 
 Requirements 📋
 To successfully complete this project, the following requirements must be met:
